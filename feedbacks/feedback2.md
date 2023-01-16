@@ -26,7 +26,9 @@ Ta méthode est presque parfaite, il manque juste un détail : il se passe quoi,
 
 <details>
 <summary>il se passe ça 😅 </summary>
+
 ![erreur](./img/not-found-error.png "Oups...")
+
 </details>
 <br/>
 Tu as 2 solutions :
